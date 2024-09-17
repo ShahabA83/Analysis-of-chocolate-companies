@@ -1,7 +1,7 @@
 # Project description:
-The data of this project is the data of chocolate companies
-In this project, it has been tried to analyze and apply changes on these data
-This project is more like an educational project in the field of data science
+The data of this project is the data of chocolate companies</br>
+In this project, it has been tried to analyze and apply changes on these data</br>
+This project is more like an educational project in the field of data science</br>
 
 ---
 
